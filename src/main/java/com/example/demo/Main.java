@@ -26,6 +26,7 @@ public class Main {
 			    "Press 4 : Delete data"
 			);
 
+		System.out.println("wel-come to site");
 		int num = sc.nextInt();
 		
 	 switch(num)
